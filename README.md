@@ -35,6 +35,10 @@ A segunda aula foi para desenvolvemos mais duas telas, a de _"Confirmar nome"_ e
 
 A terceira aula foi para desenvolvermos a tela de _"Escolha uma planta"_, também implemetamos o uso de uma api externa, no qual foi simulada pelo `json-server` e para fazer os `fetch's` da api foi utilizado o `Axios`.
 
+**Aula 4**
+
+A quarta e penúltima aula foi bem intensa, de bastante conteúdo, hoje codamos bastante, fizemos a tela de listar as plantas salvas pelo usuário, definimos que a tela de confirmação ia ser um "componente" de tela onde iria ser utilizado tanto ao registrar um usuário, quando salvar um lembrete para uma planta, adicionamos também um `bottom bar` para navegação entre as telas de `PlantSelect` e `MyPlants`.
+
 ---
 
 Agradecimento à **Rocketseat** 🚀 pelo evento incrível!💜

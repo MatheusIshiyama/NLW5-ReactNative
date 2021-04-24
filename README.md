@@ -23,21 +23,25 @@ Projeto figma: [arquivo](./.github/PlantManager.fig)
 
 ## Conteúdo
 
-**Aula 1**
+**Dia 1**
 
-A primeira aula foi para explicar o quê é o `React Native` e o `Expo`, foi abordado sobre a criação de _componentes_ e criamos a primeira tela do app, a tela de _"Bem vindo"_.
+O primeiro dia foi para explicar o quê é o `React Native` e o `Expo`, foi abordado sobre a criação de _componentes_ e criamos a primeira tela do app, a tela de _"Bem vindo"_.
 
-**Aula 2**
+**Dia 2**
 
-A segunda aula foi para desenvolvemos mais duas telas, a de _"Confirmar nome"_ e _"Começar"_ e também criamos um _botão_ como _componente_ para ser utilizado no app.
+O segundo dia foi para desenvolvemos mais duas telas, a de _"Confirmar nome"_ e _"Começar"_ e também criamos um _botão_ como _componente_ para ser utilizado no app.
 
-**Aula 3**
+**Dia 3**
 
-A terceira aula foi para desenvolvermos a tela de _"Escolha uma planta"_, também implemetamos o uso de uma api externa, no qual foi simulada pelo `json-server` e para fazer os `fetch's` da api foi utilizado o `Axios`.
+O terceiro dia foi para desenvolvermos a tela de _"Escolha uma planta"_, também implemetamos o uso de uma api externa, no qual foi simulada pelo `json-server` e para fazer os `fetch's` da api foi utilizado o `Axios`.
 
-**Aula 4**
+**Dia 4**
 
-A quarta e penúltima aula foi bem intensa, de bastante conteúdo, hoje codamos bastante, fizemos a tela de listar as plantas salvas pelo usuário, definimos que a tela de confirmação ia ser um "componente" de tela onde iria ser utilizado tanto ao registrar um usuário, quando salvar um lembrete para uma planta, adicionamos também um `bottom bar` para navegação entre as telas de `PlantSelect` e `MyPlants`.
+O quarto e penúltimo dia foi bem intenso, de bastante conteúdo, hoje codamos bastante, fizemos a tela de listar as plantas salvas pelo usuário, definimos que a tela de confirmação ia ser um "componente" de tela onde iria ser utilizado tanto ao registrar um usuário, quando salvar um lembrete para uma planta, adicionamos também um `bottom bar` para navegação entre as telas de `PlantSelect` e `MyPlants`.
+
+**Dia 5**
+
+O último dia do evento, foi bem massa, a gente aplicou o sistema de notificações, tanto para android quanto para o ios com o `expo-notifications` e adicionamos a opção de deletar alguma planta registrada e com isso, finalizamos o projeto.
 
 ---
 
